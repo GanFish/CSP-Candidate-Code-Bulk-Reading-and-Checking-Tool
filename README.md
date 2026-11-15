@@ -146,6 +146,7 @@ CSP-J/
 python main.py
 python main.py --gui     # 强制启动
 ```
+或直接运行main.cpp。
 
 ### 界面分区
 
