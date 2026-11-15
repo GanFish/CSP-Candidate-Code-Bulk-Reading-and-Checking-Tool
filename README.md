@@ -69,8 +69,13 @@
 ---
 
 ## 快速开始
+### 方式 A
 
-### 1. 安装依赖
+直接下载并运行 relase / 百度网盘 中的exe文件
+
+
+### 方式 B
+#### 1. 安装依赖
 
 ```powershell
 pip install charset-normalizer
@@ -78,7 +83,7 @@ pip install charset-normalizer
 
 > Python 3.9+，Tkinter 官方版自带（Linux 需要 `sudo apt install python3-tk`）。
 
-### 2. 启动
+#### 2. 启动
 
 ```powershell
 # GUI（不带参数）
@@ -88,7 +93,7 @@ python main.py
 python main.py "D:/CSP/End/CSP-J"
 ```
 
-### 3. 典型工作流
+#### 3. 典型工作流
 
 ```
 ① 读取模式看数据完整性
